@@ -17,7 +17,7 @@
   
 ## Milestones
 
-1) Create a scene with a cube. Enable camera movement.
-2) Create a harvester object. Add basic lighting.
-3) Animate harvester.
-4) Upgrade graphics. Paint harvester, scene, add skybox. Add shaders.
+1. Create a scene with a cube. Enable camera movement.
+2. Create a harvester object. Add basic lighting.
+3. Animate harvester.
+4. Upgrade graphics. Paint harvester, scene, add skybox. Add shaders.
