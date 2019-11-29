@@ -6,13 +6,13 @@
 
 ## Initial tasks
 
-- Kamil Zawitaj
+- **Kamil Zawitaj**
   - Create a scene
 
-- Artsiom Kashkou
+- **Artsiom Kashkou**
   - Create classes and the structure of the project to be able to put some objects on a scene
 
-- Valery Burau
+- **Valery Burau**
   - Create a basic model of harvaster and put it on a scene
   
 ## Milestones
